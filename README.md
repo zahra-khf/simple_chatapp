@@ -1,10 +1,13 @@
-# streams_chat
+# Simple Chat APP
 
-A new Flutter project.
+A Simple chat app to demonstrate how you can create a chat app easily without authentication using myjson.com as a backend.
+Built With Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone this project and run "pub get".
+
+## Learn Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
